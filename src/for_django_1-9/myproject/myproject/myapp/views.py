@@ -30,3 +30,4 @@ def list(request):
         'list.html',
         {'documents': documents, 'form': form}
     )
+# Read by fismerio

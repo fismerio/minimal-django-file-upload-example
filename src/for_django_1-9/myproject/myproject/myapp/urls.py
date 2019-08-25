@@ -5,3 +5,5 @@ from myproject.myapp.views import list
 urlpatterns = [
     url(r'^list/$', list, name='list')
 ]
+
+# Read by fismerio
